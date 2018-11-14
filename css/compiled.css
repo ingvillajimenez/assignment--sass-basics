@@ -1,0 +1,50 @@
+.login__container {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 0 auto;
+  padding: 30px 40px 40px 40px;
+  color: #999;
+  border-radius: 3px;
+  font-size: 14px;
+  border: 1px solid #E6E6E6; }
+
+.login__logo {
+  width: 175px;
+  height: 51px;
+  align-self: center;
+  margin-bottom: 20px; }
+
+.login__button {
+  background-color: #3897f0;
+  height: 36px;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 10px 0px; }
+
+.login__line {
+  height: 1px;
+  background-color: grey;
+  width: 43%;
+  display: inline-block;
+  vertical-align: middle; }
+
+.login__or {
+  text-align: center;
+  font-weight: bold; }
+
+.login__input {
+  border: 1px solid #EFEFEF;
+  background-color: #FAFAFA;
+  height: 36px;
+  margin: 5px 0px;
+  padding-left: 15px; }
+
+.login__term {
+  text-align: center; }
+
+.login__account {
+  text-align: center;
+  color: black;
+  font-weight: bold; }
